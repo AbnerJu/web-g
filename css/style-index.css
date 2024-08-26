@@ -180,3 +180,11 @@ body{
 .img-menu2 img{
     translate: 0px -15px;
 }
+
+@media (max-width:450px) {
+    .titulo-hero{
+        h1{
+            font-size: 10vw;
+        }
+    }
+}
