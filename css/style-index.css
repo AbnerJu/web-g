@@ -187,4 +187,12 @@ body{
             font-size: 10vw;
         }
     }
+
+    .menu{
+        margin-top: 75px;
+    }
+
+    .seccion-hero{
+        height: 70vh;
+    }
 }
