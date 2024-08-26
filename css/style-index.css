@@ -181,7 +181,7 @@ body{
     translate: 0px -15px;
 }
 
-@media (max-width:450px) {
+@media (max-width:600px) {
     .titulo-hero{
         h1{
             font-size: 10vw;
